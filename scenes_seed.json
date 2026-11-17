@@ -1,0 +1,98 @@
+[
+ {
+  "key": "idea",
+  "sort": 1,
+  "name_ar": "الفكرة",
+  "name_en": "Idea",
+  "title_ar": "كل حاجة بتبدأ بسؤال.",
+  "title_en": "Everything starts with a question.",
+  "lede_ar": "بنقعد مع صاحب البراند ونسمع: عايز إيه، ولمين، وإيه اللي بيفرّقك عن غيرك. قبل أي تصميم أو كاميرا، بنحدد الاتجاه الإبداعي وصوت البراند.",
+  "lede_en": "We sit down with the brand owner and listen: what you want, for whom, and what sets you apart. Before any design or camera, we set the creative direction and the voice of the brand.",
+  "alt": false,
+  "flip": false
+ },
+ {
+  "key": "design",
+  "sort": 2,
+  "name_ar": "التصميم",
+  "name_en": "Design",
+  "title_ar": "نديها شكل.",
+  "title_en": "Give it a face.",
+  "lede_ar": "الهوية والألوان والخطوط، وبعدها شاشات الموقع والتطبيق. كل عنصر بنرسمه بيخدم الفكرة، والناس بتعرفه من أول نظرة.",
+  "lede_en": "Identity, colors and typography, then the screens of the website and app. Every element serves the idea and people recognize it at first glance.",
+  "alt": true,
+  "flip": true
+ },
+ {
+  "key": "planning",
+  "sort": 3,
+  "name_ar": "التخطيط",
+  "name_en": "Planning",
+  "title_ar": "خطة تمشي عليها.",
+  "title_en": "A plan you can follow.",
+  "lede_ar": "بنبني استراتيجية التسويق وتقويم المحتوى: القنوات، الإعلانات، المواعيد، والأرقام اللي هنقيس بيها. كل بوست له يوم وله سبب.",
+  "lede_en": "We build the marketing strategy and the content calendar: channels, ads, timing, and the numbers we will measure. Every post has a day and a reason.",
+  "alt": false,
+  "flip": false
+ },
+ {
+  "key": "build",
+  "sort": 4,
+  "name_ar": "التنفيذ",
+  "name_en": "Build",
+  "title_ar": "نبني اللي اتخطط.",
+  "title_en": "We build what was planned.",
+  "lede_ar": "مواقع ومتاجر إلكترونية وتطبيقات بكود نضيف وسريع، وبتتجرب على كل الشاشات قبل التسليم.",
+  "lede_en": "Websites, online stores and apps with clean, fast code, tested on every screen before delivery.",
+  "alt": true,
+  "flip": true
+ },
+ {
+  "key": "shoot",
+  "sort": 5,
+  "name_ar": "التصوير",
+  "name_en": "Shoot",
+  "title_ar": "الكاميرا شغّالة.",
+  "title_en": "Cameras rolling.",
+  "lede_ar": "تصوير منتجات وإعلانات وريلز، وإدارة شغل المؤثرين والمشاهير قدّام الكاميرا ووراها. فريق واحد ماسك الإضاءة والكادر والأداء.",
+  "lede_en": "Product shoots, ads and Reels, plus managing influencers and celebrities in front of the camera and behind it. One team on lighting, framing and performance.",
+  "alt": false,
+  "flip": false
+ },
+ {
+  "key": "edit",
+  "sort": 6,
+  "name_ar": "المونتاج",
+  "name_en": "Edit",
+  "title_ar": "نقص ونركّب ونظبط الإيقاع.",
+  "title_en": "Cut, layer, find the rhythm.",
+  "lede_ar": "من اللقطات الخام لفيديو يمسك المشاهد لآخره: قص، ألوان، صوت، موشن جرافيك وترجمة.",
+  "lede_en": "From raw footage to a video people watch to the end: cutting, color, sound, motion graphics and captions.",
+  "alt": true,
+  "flip": true
+ },
+ {
+  "key": "publish",
+  "sort": 7,
+  "name_ar": "النشر",
+  "name_en": "Publish",
+  "title_ar": "نضغط نشر، ونتابع.",
+  "title_en": "Hit publish, then watch.",
+  "lede_ar": "بننشر في أنسب وقت لجمهورك، ونرد على التعليقات، ونقيس الأداء كل أسبوع عشان الجولة الجاية تطلع أحسن.",
+  "lede_en": "We post when your audience is most active, answer comments, and measure performance weekly so the next round is better.",
+  "alt": false,
+  "flip": false
+ },
+ {
+  "key": "success",
+  "sort": 8,
+  "name_ar": "النجاح",
+  "name_en": "Success",
+  "title_ar": "ونفرح بنجاحك.",
+  "title_en": "Then we celebrate your win.",
+  "lede_ar": "اللي بدأ فكرة بقى براند ليه جمهور وعملاء بيرجعوله. وإحنا فاضلين معاك نكتب الفصل الجاي.",
+  "lede_en": "What began as an idea is now a brand with an audience and customers who return. And we stay with you to write the next chapter.",
+  "alt": true,
+  "flip": true
+ }
+]

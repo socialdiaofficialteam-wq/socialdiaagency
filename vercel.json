@@ -1,0 +1,13 @@
+{
+  "outputDirectory": "public",
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/admin", "destination": "/admin/index.html" },
+    { "source": "/", "destination": "/api/render?p=" },
+    { "source": "/:path*", "destination": "/api/render?p=:path*" }
+  ],
+  "headers": [
+    { "source": "/assets/(.*)", "headers": [{ "key": "Cache-Control", "value": "public, max-age=3600, stale-while-revalidate=86400" }] },
+    { "source": "/admin/(.*)", "headers": [{ "key": "Cache-Control", "value": "no-cache" }, { "key": "X-Robots-Tag", "value": "noindex" }] }
+  ]
+}

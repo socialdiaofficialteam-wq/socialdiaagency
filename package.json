@@ -1,0 +1,8 @@
+{
+  "name": "socialdia-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Socialdia Agency website with an admin dashboard (Vercel + Supabase, no dependencies)",
+  "engines": { "node": ">=18" },
+  "scripts": { "dev": "node dev-server.js", "test": "node test/run.js" }
+}
